@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab4_VK_Albums</string>
+    <string name="user_id">Введите ID пользователя</string>
+    <string name="empty_id">Кажется, Вы забыли ввести ID :(</string>
+    <string name="get_albums">Посмотреть альбомы</string>
+    <string name="too_many_requests_error">Слишком много запросов. Пожалуйста, повторите попытку позже</string>
+    <string name="server_error">Ошибка сервера. Пожалуйста, повторите попытку позже</string>
+    <string name="permission_denied_error">Доступ закрыт. У пользователя закрытый профиль</string>
+    <string name="user_blocked_error">Пользователь был удален или заблокирован</string>
+    <string name="incorrect_param_error">Некорректный ID пользователя</string>
+    <string name="album_permission_denied_error">Вам не разрешено извлекать альбомы этого пользователя</string>
+    <string name="token_invalid_error">Недействительный токен ВК</string>
+    <string name="unknown_error">Неизвестная ошибка. Пожалуйста, попробуйте позднее</string>
+    <string name="no_albums">Альбомов не найдено :(</string>
+    <string name="no_photos">В альбоме нет фото</string>
+    <string name="internet_con">Сбой системы. Проверьте интернет-соединение</string>
+    <string name="token_expired_error">Токен просрочен. Пожалуйста, обновите токен</string>
+</resources>
