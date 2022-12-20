@@ -13,7 +13,7 @@ import com.bumptech.glide.Glide
 import com.example.lab4_vk_albums.AlbumsActivity
 import com.example.lab4_vk_albums.PhotosActivity
 import com.example.lab4_vk_albums.R
-import com.example.lab4_vk_albums.models.albumModel.Album
+import com.example.lab4_vk_albums.models.Album
 
 
 class AlbumsAdapter(private val userId: String, private val context: Context) :

@@ -1,7 +1,7 @@
 package com.example.lab4_vk_albums.api
 
-import com.example.lab4_vk_albums.models.albumModel.GetAlbumResponse
-import com.example.lab4_vk_albums.models.photosModel.GetPhotosResponse
+import com.example.lab4_vk_albums.models.GetAlbumResponse
+import com.example.lab4_vk_albums.models.GetPhotosResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

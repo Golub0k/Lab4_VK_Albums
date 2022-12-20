@@ -1,4 +1,4 @@
-package com.example.lab4_vk_albums.models.commonModel
+package com.example.lab4_vk_albums.models
 
 import com.google.gson.annotations.SerializedName
 

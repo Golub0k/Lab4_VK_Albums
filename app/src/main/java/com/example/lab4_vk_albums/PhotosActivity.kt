@@ -10,8 +10,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.lab4_vk_albums.adapters.PhotosAdapter
 import com.example.lab4_vk_albums.api.RetrofitClient
 import com.example.lab4_vk_albums.api.VkApi
-import com.example.lab4_vk_albums.models.photosModel.GetPhotosResponse
-import com.example.lab4_vk_albums.models.photosModel.Photo
+import com.example.lab4_vk_albums.models.GetPhotosResponse
+import com.example.lab4_vk_albums.models.Photo
 import com.google.android.flexbox.*
 import retrofit2.Response
 
